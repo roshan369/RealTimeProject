@@ -1,0 +1,16 @@
+.main-div {
+  background-color: blueviolet;
+  border: 1px solid rgb(43, 198, 226);
+  font-size: 50px;
+  height: 150%;
+  width: 1060px;
+  padding: 200px 200px 170px 100px;
+  border: 100px;
+  justify-content: center;
+  display: flex;
+}
+
+.Time {
+  justify-content: center;
+  display: flex;
+}
